@@ -1,6 +1,8 @@
 <?php
 // Version
 define('VERSION', '1.5.1.3');
+//Vishchanges
+define('VISH', '1.5.1.3');
 
 // Config
 require_once('config.php');
